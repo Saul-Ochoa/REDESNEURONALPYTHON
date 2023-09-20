@@ -1,8 +1,5 @@
 # **Repositorio de Redes Neuronales con Python**
-
 Las redes neuronales artificiales (RNAs o ANN, por sus siglas en inglés, Artificial Neural Networks) son un tipo de modelo de aprendizaje automático inspirado en la estructura y funcionamiento del cerebro humano. Estas redes se utilizan para resolver una amplia variedad de problemas de aprendizaje automático, incluyendo reconocimiento de patrones, procesamiento de lenguaje natural, visión por computadora, juegos, y mucho más. En Python, puedes construir y entrenar redes neuronales utilizando bibliotecas populares como TensorFlow, Keras y PyTorch.
-
-
 
 **1. Neuronas Artificiales:**
 
